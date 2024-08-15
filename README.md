@@ -1,3 +1,3 @@
 # Finite-Element-codes-for-1D-2D-and-3D
-This contains FEM codes to solve 1d,2d,and 3d problems in phython.
+This contains FEM codes to solve 1d,2d and 3d problems in python.
 Author - Meghraj Prajapat
